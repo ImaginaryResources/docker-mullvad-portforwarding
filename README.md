@@ -26,11 +26,11 @@ Once logged in we need to pick a location
 
 List locations
 ```
-mullvad realy list
+mullvad relay list
 ```
 Set location with a country and city of your choice
 ```
-mullvad realy set location <country> <city>
+mullvad relay set location <country> <city>
 ```
 We want to be able to see our network devices such as our host machine running docker. If this isn't set before connecting mullvad then we won't be able to ssh into the server.
 ```
